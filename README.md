@@ -11,6 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Volkanguder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Volkanguder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ![MasterHead](https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=Volkanguder&icon=2&color=8)](https://visitcount.itsvg.in)
